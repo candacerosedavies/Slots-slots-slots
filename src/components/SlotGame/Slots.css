@@ -1,14 +1,15 @@
 .game__container {
-    border: 1.5rem solid #309898;
-    border-radius: 10rem;
+    border: 1rem solid #309898;
+    border-radius: 6rem;
     padding: 2.5rem;
     /* margin: 2rem; */
     /* padding-bottom: 6rem; */
     background-color: #FFDBDB;
     display: flex;
     flex-direction: column;
-    min-height: 50vh;
-    max-width: 600px;
+    min-height: 25rem;
+    max-width: 700px;
+    align-items: center;
 
 }
 
