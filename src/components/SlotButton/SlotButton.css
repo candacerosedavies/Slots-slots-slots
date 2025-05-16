@@ -1,0 +1,12 @@
+.play-again__button {
+    background-color: #ea95be;
+    color: white;
+    border: 3px solid #309898;
+    font-weight: 600;
+    text-transform: uppercase;
+    padding: 1rem;
+}
+
+.button__container {
+    padding-top: 4rem;
+}
