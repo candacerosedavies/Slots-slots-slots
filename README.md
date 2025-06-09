@@ -1,6 +1,6 @@
 # My first react app 🍒🍒🍒
 
-### One day into the React section of my online bootcamp I realised I was ready for a brief side quest!<br><br>
+### One day into the React section of my online bootcamp I realised I was ready for a side quest!<br><br>
 ### I figured out the logic during a long dog walk.<br><br>
 ### My mum loves it!<br><br>
 
