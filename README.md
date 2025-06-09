@@ -2,7 +2,7 @@
 # My first react app 🍒🍒🍒 
 ![Winner example](/public/images/game-images/slot-win.png?raw=true)
 ![Loser example](/public/images/game-images/slot-lose.png?raw=true)
-### 🍔 A day into the React section of my online bootcamp I realised I was ready for a side quest!<br>
+### 🍔 One day into the React section of my online bootcamp I knew I was ready for a side quest!<br>
 ### 🍭 I figured out the logic during a long dog walk.<br>
 ### 🍒 My mum loves it!<br><br>
 
