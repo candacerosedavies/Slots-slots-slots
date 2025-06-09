@@ -1,11 +1,11 @@
-# My first react app 🍒🍒🍒
+![React logo](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
+# My first react app 🍒🍒🍒 
 
 ### One day into the React section of my online bootcamp I realised I was ready for a side quest!<br><br>
 ### I figured out the logic during a long dog walk.<br><br>
 ### My mum loves it!<br><br>
 
-![React logo](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-### [Try for yourself](https://slots-slots-slots.netlify.app/)<br><br>
+### [Enjoy playing!](https://slots-slots-slots.netlify.app/)<br><br>
 
 
 <!--![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title")-->
